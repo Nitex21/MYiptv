@@ -1,0 +1,114 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+
+# CCTV 频道
+#EXTINF:1,CCTV1
+http://ms.fxim.net:808/hls/1/index.m3u8
+#EXTINF:1,CCTV2
+http://ms.fxim.net:808/hls/2/index.m3u8
+#EXTINF:1,CCTV3
+http://ms.fxim.net:808/hls/3/index.m3u8
+#EXTINF:1,CCTV4
+http://ms.fxim.net:808/hls/4/index.m3u8
+#EXTINF:1,CCTV5
+http://ms.fxim.net:808/hls/5/index.m3u8
+#EXTINF:1,CCTV5+
+http://ms.fxim.net:808/hls/13/index.m3u8
+#EXTINF:1,CCTV6
+http://ms.fxim.net:808/hls/6/index.m3u8
+#EXTINF:1,CCTV7
+http://ms.fxim.net:808/hls/7/index.m3u8
+#EXTINF:1,CCTV8
+http://ms.fxim.net:808/hls/8/index.m3u8
+#EXTINF:1,CCTV9
+http://ms.fxim.net:808/hls/9/index.m3u8
+#EXTINF:1,CCTV10
+http://ms.fxim.net:808/hls/10/index.m3u8
+#EXTINF:1,CCTV11
+http://ms.fxim.net:808/hls/11/index.m3u8
+#EXTINF:1,CCTV12
+http://ms.fxim.net:808/hls/12/index.m3u8
+
+# 浙江频道
+#EXTINF:1,浙江卫视
+http://ms.fxim.net:808/hls/14/index.m3u8
+#EXTINF:1,浙江少儿
+http://ms.fxim.net:808/hls/15/index.m3u8
+
+# 江苏频道
+#EXTINF:1,江苏卫视
+http://ms.fxim.net:808/hls/16/index.m3u8
+
+# 上海频道
+#EXTINF:1,上海卫视
+http://ms.fxim.net:808/hls/17/index.m3u8
+
+# 安徽频道
+#EXTINF:1,安徽卫视
+http://ms.fxim.net:808/hls/18/index.m3u8
+
+# 重庆频道
+#EXTINF:1,重庆卫视
+http://ms.fxim.net:808/hls/19/index.m3u8
+
+# 四川频道
+#EXTINF:1,四川卫视
+http://ms.fxim.net:808/hls/20/index.m3u8
+
+# 天津频道
+#EXTINF:1,天津卫视
+http://ms.fxim.net:808/hls/21/index.m3u8
+
+# 北京频道
+#EXTINF:1,北京卫视
+http://ms.fxim.net:808/hls/22/index.m3u8
+
+# 青海频道
+#EXTINF:1,青海卫视
+http://ms.fxim.net:808/hls/23/index.m3u8
+
+# 辽宁频道
+#EXTINF:1,辽宁卫视
+http://ms.fxim.net:808/hls/24/index.m3u8
+
+# 江西频道
+#EXTINF:1,江西卫视
+http://ms.fxim.net:808/hls/25/index.m3u8
+
+# 甘肃频道
+#EXTINF:1,甘肃卫视
+http://ms.fxim.net:808/hls/26/index.m3u8
+
+# 广东频道
+#EXTINF:1,广东卫视
+http://ms.fxim.net:808/hls/27/index.m3u8
+
+# 吉林频道
+#EXTINF:1,吉林卫视
+http://ms.fxim.net:808/hls/28/index.m3u8
+
+# 湖南频道
+#EXTINF:1,湖南卫视
+http://ms.fxim.net:808/hls/29/index.m3u8
+
+# 湖北频道
+#EXTINF:1,湖北卫视
+http://ms.fxim.net:808/hls/30/index.m3u8
+
+# 河北频道
+#EXTINF:1,河北卫视
+http://ms.fxim.net:808/hls/31/index.m3u8
+
+# 河南频道
+#EXTINF:1,河南卫视
+http://ms.fxim.net:808/hls/32/index.m3u8
+
+# 广西频道
+#EXTINF:1,广西卫视
+http://27.41.247.251:9003/hls/47/index.m3u8
+
+# 三沙频道
+#EXTINF:1,三沙卫视
+http://27.41.247.251:9003/hls/48/index.m3u8
